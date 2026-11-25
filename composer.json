@@ -1,9 +1,9 @@
 {
-    "name": "illmy/laravel-admin-helpers",
+    "name": "maddog888/laravel-admin-helpers",
     "description": "Helpers extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "helpers"],
-    "homepage": "https://github.com/illmy/laravel-admin-helpers",
+    "homepage": "https://github.com/maddog888/laravel-admin-helpers",
     "license": "MIT",
     "authors": [
         {
@@ -13,10 +13,10 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "~1.6"
+        "encore/laravel-admin": "^2.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "~6.0"
+        "phpunit/phpunit": "^6.0"
     },
     "autoload": {
         "psr-4": {
