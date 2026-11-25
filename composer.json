@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "^2.0"
+        "maddog888/laravel-admin": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.0"
